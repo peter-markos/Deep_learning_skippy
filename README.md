@@ -17,3 +17,10 @@ In .tsv files we have the text, '\t', and the link of the image.
 We used Image_downloader.ipynb to download the images, and write the output.txt with lines, containing the name of the image (simply numbers), '\t', and the text of the image. (We downloaded only ~15.000 images until the Milestone I. Of course, we will need more.)
 
 After that, we feed these datas (output.txt, and the images) with the data_preprocessing.ipynb, to get tfrecords files. Firstly used 0.8-0.1-0.1 train-valid-test datarates, and we set the maximum size of one tfrecords file to 5000. So we get train.txt, valid.txt and test.txt from the output.txt. The tfrecords file generation is still in progress.
+
+## Milestone II.
+The tfrecords did not worked very well, so we changed the plan, and go ahead for the new idea. Instead of the tfrecords, we created json files and feed the neural network with them.
+(We started another branch for the Milestone II. The master branch contains the previous codes.)
+
+We used convolutional and fully connected layers.
+Because we had to change the plan, we had less time, so the teaching is not working very well yet.
