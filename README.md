@@ -32,4 +32,4 @@ Image_downloader: Downloads the images, and create the output.txt with the names
 
 Json_maker: Creates the json files from these images, and the output.txt.
 
-image_to_txt: Data preprocessing, neural network, teaching, and one of the final results.
+image_to_txt: Data preprocessing, neural network, teaching, and testing.
