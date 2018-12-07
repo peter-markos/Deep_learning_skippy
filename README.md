@@ -27,3 +27,6 @@ Because we had to change the plan, we had less time, so the teaching is not work
 
 ## Final form
 Finally we finished our project before the final deadline. We stayed to work with the json files, and the final codes are in the Milestone II. branch. (We did not delete the master branch aka Milestone I.)
+Image_downloader: Downloads the images, and create the output.txt with the names of the images and the text. (We uploaded these files to Google Drive)
+Json_maker: Creates the json files from these images, and the output.txt.
+image_to_txt: Data preprocessing, neural network, teaching, and one of the final results.
