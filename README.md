@@ -24,3 +24,6 @@ The tfrecords did not worked very well, so we changed the plan, and go ahead for
 
 We used convolutional and fully connected layers.
 Because we had to change the plan, we had less time, so the teaching is not working very well yet.
+
+## Final form
+Finally we finished our project before the final deadline. We stayed to work with the json files, and the final codes are in the Milestone II. branch. (We did not delete the master branch aka Milestone I.)
